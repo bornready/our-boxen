@@ -92,5 +92,7 @@ node default {
   include skype
   include chrome
   include vmware_fusion
+  include teamviewer
+  include dropbox
  
 }
